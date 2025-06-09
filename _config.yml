@@ -1,5 +1,5 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                :  Judy Heller's Projects                   # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : github_gclaheh11                          # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -20,9 +20,9 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
+your_name                                 : Judy Heller                              
 your_link                                 : https://gclaheh11@gmail.com                     
-your_city                                 : Copenhagen                                
+your_city                                 : San Diego                               
 email_address                             : emil.gclaheh11@gmail.com
 linkedin_username                         :                                           
 linkedin_company                          :                                           
